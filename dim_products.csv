@@ -1,0 +1,127 @@
+product_id,product_name,category,price,list_price
+5001,Toor Dal 1kg #2,Grocery,1959.31,2006.54
+5002,Dettol Handwash #3,Personal Care,287.44,291.78
+5003,Formal Shirt #3,Apparel,1623.71,1666.87
+5004,  USB Cable #5 ,Electronics,1480.57,1504.23
+5005,Bed Sheet Double #3,Home & Kitchen,670.62,681.16
+5006,Bisleri Water 1L #5,Beverages,1050.96,1055.01
+5007,Lays Chips #4,Snacks,81.87,84.39
+5008,Ghee 1L #9,Dairy,1451.79,1791.55
+5009,Sugar 1kg #6,Grocery,1954.9,2251.68
+5010,Gillette Razor #1,Personal Care,2313.74,2496.56
+5011,Denim Jeans #8,Apparel,1079.66,1262.1
+5012,LED Bulb 9W #6,Electronics,2156.72,2524.12
+5013,Bed Sheet Double #7,,747.41,900.03
+5014,Tata Tea Gold 1kg #7,Beverages,2199.08,2353.8
+5015,Parle-G Biscuits #5,Snacks,1824.64,2175.5
+5016,Amul Butter 500g #5,Dairy,1925.54,2079.05
+5017,Aashirvaad Atta 5kg #9,Grocery,2393.06,2511.19
+5018,  Dove Soap 100g #2 ,Personal Care,426.26,439.33
+5019,Cotton Kurta #3,Apparel,1318.4,1515.16
+5020,Mobile Charger #5,Electronics,96.27,110.18
+5021,Bed Sheet Double #7,Home & Kitchen,975.66,1034.03
+5022,Bisleri Water 1L #4,Beverages,1942.9,2032.01
+5023,Lays Chips #9,Snacks,1717.29,1887.67
+5024,Mother Dairy Curd 400g #3,Dairy,589.93,592.38
+5025,Poha 500g #7,Grocery,677.94,731.28
+5026,Gillette Razor #2,Personal Care,2102.89,2393.61
+5027,Woollen Sweater #9,Apparel,2054.16,2229.13
+5028,Extension Board #6,Electronics,164.23,198.75
+5029,Mop & Bucket #4,Home & Kitchen,1189.6,1478.14
+5030,Frooti 1L #9,Beverages,2158.72,2659.13
+5031,Britannia Cake #6,Snacks,2378.72,2516.99
+5032,Mother Dairy Curd 400g #6,Dairy,2156.5,2358.52
+5033,Poha 500g #8,Grocery,1383.27,1547.21
+5034,Vaseline 200ml #5,,490.06,567.0
+5035,Denim Jeans #8,Apparel,2237.15,2768.72
+5036,Smart Watch #9,Electronics,1763.31,2113.93
+5037,Mop & Bucket #3,Home & Kitchen,233.41,255.16
+5038,Frooti 1L #5,Beverages,366.45,434.2
+5039,Lays Chips #9,Snacks,562.38,681.7
+5040,Paneer 200g #5,Dairy,1442.26,1786.8
+5041,  Besan 500g #9 ,Grocery,2408.78,2719.87
+5042,Gillette Razor #3,Personal Care,2413.77,2477.08
+5043,Denim Jeans #7,Apparel,850.68,906.28
+5044,LED Bulb 9W #4,Electronics,426.47,457.7
+5045,Plastic Storage Set #5,Home & Kitchen,909.13,1130.22
+5046,Nescafe Coffee 200g #1,Beverages,2122.09,2465.75
+5047,Britannia Cake #6,Snacks,2035.02,2493.98
+5048,Paneer 200g #3,Dairy,1811.9,1825.27
+5049,Sugar 1kg #9,Grocery,383.25,385.97
+5050,Dove Soap 100g #9,Personal Care,1677.56,1972.97
+5051,Sports Track Pants #1,Apparel,2108.73,2142.26
+5052,USB Cable #4,Electronics,1342.03,1543.17
+5053,Non-stick Tawa #3,Home & Kitchen,288.02,311.51
+5054,Tata Tea Gold 1kg #2,Beverages,968.47,1117.85
+5055,Dark Fantasy #2,Snacks,885.8,1087.21
+5056,Amul Butter 500g #9,Dairy,1309.39,1580.64
+5057,Poha 500g #6,Grocery,229.31,273.97
+5058,Dove Soap 100g #8,Personal Care,1950.45,2079.82
+5059,Woollen Sweater #4,,441.65,489.41
+5060,Extension Board #6,Electronics,823.67,1008.61
+5061,Mop & Bucket #8,Home & Kitchen,1022.6,1067.78
+5062,Bisleri Water 1L #4,Beverages,2166.91,2665.16
+5063,Parle-G Biscuits #7,Snacks,2083.26,2390.47
+5064,Amul Milk 1L #3,Dairy,1118.14,1276.52
+5065,Toor Dal 1kg #7,Grocery,687.38,830.98
+5066,Head & Shoulders 340ml #5,Personal Care,2106.92,2341.02
+5067,Denim Jeans #9,Apparel,1576.52,1668.86
+5068,Power Bank 10000mAh #9,Electronics,1936.74,2066.46
+5069,Plastic Storage Set #8,Home & Kitchen,1592.15,1751.15
+5070,Coca-Cola 2L #6,Beverages,1693.44,1836.04
+5071,Dark Fantasy #8,Snacks,2273.64,2755.29
+5072,  Ghee 1L #9 ,Dairy,1303.81,1442.16
+5073,Sugar 1kg #1,Grocery,2309.15,2727.36
+5074,Dove Soap 100g #5,Personal Care,1408.33,1497.12
+5075,Formal Shirt #7,Apparel,2086.48,2504.87
+5076,Smart Watch #8,Electronics,863.4,871.49
+5077,Non-stick Tawa #2,Home & Kitchen,1660.17,2051.14
+5078,Real Juice 1L #1,Beverages,1954.93,2341.39
+5079,Kurkure #5,Snacks,1566.49,1711.17
+5080,Paneer 200g #4,Dairy,1358.93,1362.8
+5081,India Gate Basmati Rice 5kg #3,Grocery,841.71,887.88
+5082,Dettol Handwash #4,Personal Care,1525.05,1590.16
+5083,Formal Shirt #2,Apparel,1429.87,1684.33
+5084,Mobile Charger #9,Electronics,354.8,357.31
+5085,Pressure Cooker 3L #1,Home & Kitchen,483.51,572.26
+5086,Nescafe Coffee 200g #8,Beverages,1653.27,1794.32
+5087,Parle-G Biscuits #6,Snacks,1526.35,1623.79
+5088,Mother Dairy Curd 400g #5,Dairy,115.87,130.06
+5089,Aashirvaad Atta 5kg #8,Grocery,2027.15,2155.8
+5090,Vaseline 200ml #8,Personal Care,516.87,552.23
+5091,Sports Track Pants #7,,777.57,890.66
+5092,Smart Watch #7,Electronics,2160.76,2552.88
+5093,Mop & Bucket #9,Home & Kitchen,1713.09,2041.08
+5094,Real Juice 1L #8,Beverages,1550.61,1881.3
+5095,Kurkure #6,Snacks,1235.86,1439.95
+5096,Mother Dairy Curd 400g #3,Dairy,218.22,248.88
+5097,Toor Dal 1kg #5,Grocery,2410.79,2989.68
+5098,Nivea Cream #9,Personal Care,2174.05,2516.76
+5099,Kids T-Shirt #4,Apparel,96.47,102.28
+5100,  Bluetooth Earbuds #9 ,Electronics,2142.32,2210.06
+5101,Non-stick Tawa #5,Home & Kitchen,1945.07,2293.43
+5102,Nescafe Coffee 200g #9,Beverages,1704.27,2069.33
+5103,Parle-G Biscuits #7,Snacks,1343.44,1587.33
+5104,Amul Milk 1L #3,Dairy,1526.76,1795.78
+5105,Toor Dal 1kg #3,Grocery,349.86,421.22
+5106,Gillette Razor #1,Personal Care,2009.59,2444.37
+5107,Formal Shirt #5,Apparel,2353.91,2459.24
+5108,USB Cable #9,Electronics,1740.05,1795.73
+5109,Non-stick Tawa #3,Home & Kitchen,1740.13,2067.0
+5110,Frooti 1L #3,Beverages,1049.45,1212.85
+5111,Kurkure #1,Snacks,769.1,868.04
+5112,Paneer 200g #2,Dairy,1177.46,1397.39
+5113,Toor Dal 1kg #6,Grocery,385.47,434.45
+5114,Dettol Handwash #1,Personal Care,168.97,183.88
+5115,Sports Track Pants #5,Apparel,838.71,844.6
+5116,Extension Board #4,Electronics,2175.99,2224.98
+5117,Mop & Bucket #7,Home & Kitchen,518.6,627.74
+5118,Nescafe Coffee 200g #4,Beverages,1662.52,1868.07
+5119,  Parle-G Biscuits #3 ,Snacks,1351.26,1645.29
+5120,Ghee 1L #7,Dairy,1161.98,1267.49
+5121,Fortune Sunflower Oil 1L #5,Grocery,1582.63,1756.91
+5122,Nivea Cream #8,,252.11,308.64
+5123,Woollen Sweater #4,Apparel,311.74,317.88
+5124,Mobile Charger #3,Electronics,309.99,325.77
+5125,Pressure Cooker 3L #4,Home & Kitchen,2251.21,2794.77
+5126,Bisleri Water 1L #1,Beverages,1378.59,1428.52

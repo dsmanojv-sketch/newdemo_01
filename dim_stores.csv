@@ -1,0 +1,44 @@
+store_id,store_name,zone,city,open_date
+1001,BharatMart Siliguri Junction,east,Siliguri,28-01-2020
+1002,BharatMart Bhubaneswar City, East ,Bhubaneswar,13-02-2022
+1003,BharatMart Pune City,West,Pune,17-07-2023
+1004,BharatMart Guwahati Hub,EAST,Guwahati,17-09-2023
+1005,BharatMart Ranchi Express,EAST,Ranchi,23-01-2018
+1006,BharatMart Mysuru Hub,South,Mysuru,05-08-2022
+1007,BharatMart Lucknow Central,north,Lucknow,16-11-2023
+1008,BharatMart Ranchi City, East ,Ranchi,26-09-2020
+1009,BharatMart Agra City,north,Agra,10-04-2022
+1010,BharatMart New Delhi Central, NORTH,New Delhi,20-11-2018
+1011,BharatMart Vadodara Mega,West,Vadodara,23-05-2019
+1012,BharatMart Kochi Hub,south,Kochi,18-07-2023
+1013,BharatMart Kolkata Mega,EAST,Kolkata,26-08-2021
+1014,BharatMart Guwahati Junction, East ,Guwahati,06-08-2020
+1015,BharatMart Vijayawada Junction,South,Vijayawada,21-02-2023
+1016,BharatMart Kochi Mega,South,Kochi,24-04-2017
+1017,BharatMart Chennai City,South,Chennai,01-02-2016
+1018,BharatMart Kanpur Hub,North,Kanpur,26-10-2017
+1019,BharatMart Chennai Central,south,Chennai,09-09-2016
+1020,BharatMart Nashik Express,west,Nashik,22-06-2016
+1021,BharatMart Kanpur City, NORTH,Kanpur,08-09-2018
+1022,BharatMart Ahmedabad Hub,west,Ahmedabad,14-02-2020
+1023,BharatMart Chennai Express,South,Chennai,14-09-2020
+1024,BharatMart Ahmedabad Hub,WEST,Ahmedabad,01-07-2019
+1025,BharatMart Rajkot Central,West,Rajkot,21-06-2016
+1026,BharatMart Mumbai Central,West,Mumbai,22-06-2023
+1027,BharatMart Vadodara Mega,west,Vadodara,15-08-2017
+1028,BharatMart Kanpur Express,North,Kanpur,17-10-2018
+1029,BharatMart Chandigarh Hub,North,Chandigarh,20-08-2021
+1030,BharatMart Ludhiana Junction,NORTH,Ludhiana,13-09-2017
+1031,BharatMart Chennai Junction,south,Chennai,21-01-2018
+1032,BharatMart Agra Central, NORTH,Agra,07-11-2023
+1033,BharatMart Mysuru Junction,south,Mysuru,21-03-2016
+1034,BharatMart Patna Hub,East,Patna,22-03-2018
+1035,BharatMart Guwahati Mega,EAST,Guwahati,14-09-2022
+1036,BharatMart Guwahati Mega,east,Guwahati,06-06-2018
+1037,BharatMart Vadodara City,WEST,Vadodara,15-05-2022
+1038,BharatMart Hyderabad Hub,south,Hyderabad,04-08-2023
+1039,BharatMart Agra Hub,North,Agra,28-02-2020
+1040,BharatMart Surat Central,West,Surat,21-08-2017
+1041,BharatMart Rajkot Hub,WEST,Rajkot,12-01-2018
+1042,BharatMart Hyderabad Hub,south,Hyderabad,20-02-2019
+1043,BharatMart Jaipur Hub,north,Jaipur,10-10-2019
